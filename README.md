@@ -1,13 +1,13 @@
 **Economist/Data Scientist/Agricultural Economist** 
 
 Currently teaching myself how to use new machine learning techniques to process economic data and incooperate the new models into my research as a masters student. 
-Specifically interested in 
 
+    Interested in
     -> The use of geospatial data in combination with machine learning.
     -> NLP in combination with models like lSTM to forecast economic indicators.
     -> The use of big data in agriculture
                              
-Open to collobrative work and job offers 
+Open to collobrative work, job offers
 
     Name: Ege
 
